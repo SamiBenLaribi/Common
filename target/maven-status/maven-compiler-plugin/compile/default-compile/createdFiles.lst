@@ -1,0 +1,5 @@
+com\sbl_commons\dto\ArticleDto.class
+com\sbl_commons\restExceptionHndler\RestExceptionHandler.class
+com\sbl_commons\dto\StockDto.class
+com\sbl_commons\entities\BaseEntity.class
+com\sbl_commons\Main.class
